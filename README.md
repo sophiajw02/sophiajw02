@@ -1,2 +1,2 @@
-# Hi, nice to meet you!
-I'm Sophia
+# GitHub Profile README
+I'm Sophia, a passionate aspiring software engineer. 
