@@ -5,7 +5,8 @@
 const sophia = {
   pronouns: "she" | "her",
   education: "BSCS @ GT",
-  code: ["Java", "Python", "C", "C++", "C#", "SQL", "Javascript", "Typescript", "HTML", "CSS"],
+  code: ["Java", "Python", "C", "C++", "C#", "SQL", "Javascript"],
+  front-end: ["Typescript", "HTML", "CSS"],
   technologies: ["Docker", "Node.js", "React.js", "TailwindCSS", "MySql", "Firebase", "selenium"],
   experiences: {
     UKG: {
