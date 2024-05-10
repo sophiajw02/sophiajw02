@@ -13,6 +13,7 @@ const sophia = {
       role: "Software Engineer Intern",
       when: "Summer 2023"
     }
-  }
+  },
+  hobbies: ["embroidering", "roller skating", "music"]
 }
 ```
